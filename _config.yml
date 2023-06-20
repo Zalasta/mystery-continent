@@ -5,14 +5,11 @@ url: "http://zalasta.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: minima
-
-# Minima theme settings
-minima:
-  skin: solarized
+remote_theme: pages-themes/tactile@v0.2.0
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
