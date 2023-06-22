@@ -1,5 +1,8 @@
 ---
-
+layout: page
+title: 'Characters'
+tags: Characters
+date: '2023-06-12'
 
 ---
 
